@@ -3,7 +3,7 @@
 Craft files for the rocket, and a version without the parts needed for kOS, are included.
 
 Link to Youtube video:
-
+https://www.youtube.com/watch?v=vl9KbM8m720
 
 This is the Kerbal Operating System code for a GSLV Mk-II rocket launch, carrying the GISAT-1 / EOS-03 satellite to GTO.
 
